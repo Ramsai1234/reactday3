@@ -2,7 +2,7 @@
   "name": "college",
   "private": true,
   "version": "0.0.0",
-  "homepage": "",
+  "homepage": "https://ramsai1234.github.io/reactday3/",
   "type": "module",
   "scripts": {
     "dev": "vite",
